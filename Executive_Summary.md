@@ -1,91 +1,93 @@
 # Executive Summary
-## Decoding Customer Value: A SQL-Driven Retention Strategy
-### D2C Fashion Brand — Customer Loyalty Analysis
+## Customer Loyalty Analysis — D2C Fashion Brand
 
 ---
 
-## Business Question
+## The question
 
-Is the business building a truly loyal customer base, or is it dependent on continuous promotions and discounts?
-
----
-
-## Answer
-
-**The business is not building genuine loyalty. It is renting customer behaviour through discounts.**
-
-43% of all revenue requires a discount to be earned. The subscription programme — designed to drive loyalty — has a 100% promotional usage rate and produces below-average loyalty scores. Most critically, promo dependency increases as customers mature, meaning the brand's longest-standing customers have been trained to wait for discounts rather than buy at full price.
-
-A genuine loyal core of 826 customers (21.2%) does exist — they buy consistently, never use promotions, and have 38 average previous purchases. But current strategy is not replicating this profile. It is doing the opposite.
+The business wanted to know whether it was building a genuinely loyal customer base or whether repeat purchases were driven by continuous discounts. This matters because those two things look identical in a revenue report but have completely different implications for long-term growth. A customer who buys because they love the brand is an asset. A customer who buys because there's a sale running is a liability the moment you stop running sales.
 
 ---
 
-## Key Metrics
+## The short answer
 
-| KPI | Value | Implication |
-|---|---|---|
-| Total Revenue | $233,081 | Baseline for ROI calculations |
-| Avg Order Value | $59.76 | Consistent across all segments |
-| Promo Revenue Share | 42.7% | Nearly half of revenue is discount-dependent |
-| Organic AOV vs Promo AOV | $60.13 vs $59.28 | $0.85 gap — discounts protect no revenue |
-| Subscriber promo rate | 100% | Programme is a discount vehicle |
-| Genuinely Loyal customers | 826 (21.2%) | Core to protect and replicate |
-| Promo rate — Loyal band | 43.9% | Highest of any band — loyalty programme is failing |
+The business is heavily dependent on discounts, its subscription programme is making the problem worse, and the customers it most needs to replicate — organic, high-frequency buyers — are currently receiving no differentiated strategy.
+
+That said, 21.2% of customers are genuinely loyal. They buy consistently, never use promotions, and have an average of 38 previous purchases. The opportunity is real. The problem is that nothing in the current model is designed to produce more customers like them.
 
 ---
 
-## Customer Segmentation
+## What the numbers say
 
-Five segments were identified using a composite loyalty score built from purchase depth, frequency, organic behaviour, satisfaction, and subscription status.
+**$99,411 — 42.7% of total revenue — requires a discount to be earned.**
 
-**Genuinely Loyal (21.2%)** — 826 customers with 38 average purchases, zero promo usage, and the highest loyalty score (3.93). These customers represent the brand's most sustainable revenue stream and require VIP recognition before they are lost to competitors.
+That alone would be concerning. What makes it worse is that promotional and organic buyers spend almost exactly the same amount per transaction: $59.28 vs $60.13. A difference of 85 cents. The business is sacrificing margin on 43% of its orders and getting nothing back in basket size or transaction value.
 
-**Promo Dependent (27.3%)** — 1,064 customers with deep purchase history (34.9 avg) but 100% promo rate. These customers know the brand but have been conditioned to only buy on discount. High churn risk if promotions are reduced without a transition strategy.
+**The subscription programme has a 100% promotional usage rate.**
 
-**Organic Developing (13.8%)** — 538 customers buying without discounts at 25 average purchases. The highest-ROI conversion opportunity. These customers demonstrate intrinsic brand affinity and need relationship investment, not price incentives, to reach the Loyal tier.
+Every subscriber used a discount. Non-subscribers had a 21.9% promo rate. Subscribers also had lower loyalty scores (2.42 vs 3.00) and lower average revenue per transaction ($59.49 vs $59.87). The programme built to drive loyalty is the most discount-dependent, lowest-loyalty group in the entire customer base. It is not a loyalty programme — it is a discount club.
 
-**At Risk New (10.6%)** — 412 new customers already using promotions at a 41.3% rate. The acquisition funnel is establishing discount expectations from the first purchase.
+**Promo dependency increases as customers mature.**
 
-**Occasional Buyer (27.2%)** — 1,060 mid-frequency customers with mixed promo behaviour. Lowest loyalty scores. Require targeted engagement to prevent further disengagement.
-
----
-
-## Critical Finding — Subscription Programme
-
-The subscription programme is the most significant structural problem identified. Subscribers have:
-- 100% promo rate (vs 21.9% for non-subscribers)
-- Lower loyalty score: 2.42 vs 3.00
-- Lower average revenue: $59.49 vs $59.87
-- Marginally higher purchase depth: 26.1 vs 25.1
-
-The programme is achieving the opposite of its purpose. It is functioning as a permanent discount entitlement rather than a loyalty incentive, while delivering below-average revenue per transaction.
+New customers (1–5 purchases) have a 40.1% promo rate. The most established customers (31–50 purchases) have a 43.9% promo rate. In a healthy retention model this relationship runs in the opposite direction — customers who know and trust a brand should need fewer incentives to return, not more. This pattern suggests years of promotional activity have conditioned the brand's best customers to wait for a sale before buying.
 
 ---
 
-## Strategic Recommendations
+## The five customer segments
 
-**Priority 1 — Redesign the subscription programme**
-Replace blanket discounts with tiered benefits: early product access, free shipping thresholds, personalised category recommendations, and loyalty points. Measure impact on promo rate and loyalty score at 90-day intervals.
+Five segments were identified using a composite loyalty score built from purchase depth, purchase frequency, organic buying behaviour, review rating, and subscription status.
 
-**Priority 2 — Invest in Organic Developing segment**
-538 customers are one relationship investment away from becoming Genuinely Loyal. Launch a personalised cross-category recommendation programme targeting this group. Expected outcome: 15–20% conversion to Loyal tier within 6 months.
+**Genuinely Loyal — 826 customers (21.2%)**
+Zero promo usage, 38 average purchases, loyalty score of 3.93. These are the customers the brand should be trying to replicate. They are currently treated identically to everyone else.
 
-**Priority 3 — Regional promo reduction pilot**
-Begin reducing promotional spend in Kansas (76.2% organic), Arizona (66.2%), and Connecticut (66.7%) — markets with demonstrated organic demand. Measure revenue impact over 60 days before rolling out nationally.
+**Promo Dependent — 1,064 customers (27.3%)**
+Deep purchase history (34.9 average) but 100% promo rate. These customers know the brand well enough to keep coming back — but only on their terms. They represent the highest churn risk if promotional activity is reduced without a transition strategy in place.
 
-**Priority 4 — Fix new customer acquisition**
-40.1% of new customers arrive via promo. Introduce at least one full-price acquisition channel (content marketing, referral programme, influencer partnerships) and track 90-day repeat purchase rate without discount.
+**Organic Developing — 538 customers (13.8%)**
+Buying without discounts at 25 average purchases. These customers have demonstrated intrinsic brand affinity. They are the highest-ROI conversion opportunity in the entire base — one step away from Genuinely Loyal, and they do not need price incentives to get there.
 
-**Priority 5 — Protect Genuinely Loyal customers**
-Create a VIP tier with non-monetary benefits (exclusive previews, styling consultations, community access). These 826 customers represent the brand's most valuable long-term asset and currently receive no differentiated treatment.
+**At Risk New — 412 customers (10.6%)**
+New customers with 1–5 purchases and a 41.3% promo rate. The acquisition funnel is introducing discount expectations from the very first transaction. This is where the dependency cycle starts.
 
----
-
-## Business Trade-offs
-
-Reducing promo dependency carries short-term revenue risk. The $99,411 currently generated through promotional orders cannot be eliminated overnight. A phased approach — piloting in high-organic regions, transitioning subscribers to value-based benefits, and converting Organic Developing customers — reduces this risk while building sustainable revenue over 12–18 months.
+**Occasional Buyer — 1,060 customers (27.2%)**
+Mid-frequency buyers with mixed promo behaviour and the lowest loyalty scores. Without targeted engagement this group will continue to disengage.
 
 ---
 
-*Analysis based on 3,900 customer records across 4 product categories and 50 US states.*
-*Methodology: Python (pandas), SQL (SQLite), Power BI. Loyalty score engineered from 5 behavioural signals.*
+## Regional picture
+
+Three states show strong organic demand and are ready for reduced promotional spend: Kansas (76.2% organic rate), Arizona (66.2%, highest avg revenue at $66.55), and Connecticut (66.7%). These markets are buying without needing a discount. Continuing to offer promotions there is pure margin sacrifice.
+
+---
+
+## What should happen next
+
+**Redesign the subscription programme.**
+This is the highest-priority action because it addresses both problems simultaneously — promo dependency and loyalty. Replace blanket discounts with tiered, non-monetary benefits: early product access, free shipping above a threshold, personalised recommendations based on purchase history. Set a 90-day target to reduce subscriber promo rate below 70% and measure loyalty score movement.
+
+**Build a conversion path for Organic Developing customers.**
+538 people are already halfway to Genuinely Loyal. They need relationship investment, not price incentives. A personalised cross-category outreach programme — based on what they've already bought — is the most direct route to growing the loyal base without margin sacrifice.
+
+**Pilot promo reduction in Kansas, Arizona, and Connecticut.**
+These markets have proven they will buy organically. Reduce promotional frequency there over 60 days, measure revenue impact, and use the results to build the business case for a broader promo reduction strategy.
+
+**Stop training new customers with discounts.**
+40.1% of customers arrive with 1–5 purchases and already have a promo habit. Introduce at least one full-price acquisition channel — referral, content, community — and track 90-day repurchase rate without discount as a baseline metric.
+
+**Create a recognition tier for Genuinely Loyal customers.**
+826 people are buying consistently and organically. They currently receive nothing for it. A VIP tier with non-monetary recognition — exclusive previews, early access, direct communication — costs very little and protects the brand's most valuable relationships.
+
+---
+
+## The trade-off
+
+Reducing promo dependency is not risk-free. The $99,411 generated through promotional orders cannot be removed from the revenue model overnight without impact. The phased approach above — starting with high-organic regions, transitioning subscribers to value-based benefits, and converting Organic Developing customers — is designed to rebuild that revenue organically over 12–18 months rather than cut it.
+
+The alternative is continuing as-is: growing a customer base that will only buy on discount, with a subscription programme that reinforces that behaviour, and a loyal core that receives no reason to stay.
+
+---
+
+*Dataset: 3,900 customers · 4 product categories · 50 US states*
+*Tools: Python (pandas, matplotlib, seaborn) · SQL (SQLite) · Power BI*
+*Loyalty score engineered from 5 behavioural signals — no pre-existing loyalty metric in dataset*
+
